@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a software engineer currently working on side projects and micro saas currently building [koteshen.com](https://koteshen.com)<br>In my spare time I also work on a few open source packages that are mostly used by me internally<br>I'm open to new roles
+I'm a software engineer currently working on side projects and micro saas currently building a scheduling tool [unkomplikate.com](https://unkomplikate.com) and actively working on [koteshen.com](https://koteshen.com)<br>In my spare time I also work on a few open source packages that are mostly used by me internally<br>I'm open to new roles
 
 
 ## 🌐 Socials:
